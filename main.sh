@@ -1,5 +1,5 @@
 
 
 echo "Get into Apple"
-echo "Jenkins Auto build changed"
+echo "Jenkins Auto for push"
 exit 0
