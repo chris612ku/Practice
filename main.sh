@@ -1,5 +1,5 @@
 
 
 echo "Get into Apple"
-echo "Jenkins Auto coding"
+echo "Jenkins Auto"
 exit 0
