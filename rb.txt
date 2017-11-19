@@ -2,3 +2,4 @@ This is to test if there is master conflict after rebase
 master test
 rb test
 rbtest
+master interrupt
